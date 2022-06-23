@@ -4,7 +4,7 @@ A multi-player tic-tac-toe game using angular and Firebase. Invite your friends 
 
 # Play Now!!!
 
-https://tic-tac-toe-d9068.firebaseapp.com/
+https://tic-tac-toe-angular-pizi.netlify.app
 
 # Demo
 
